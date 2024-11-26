@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+flask
+joblib
+statsmodels
+lightgbm
+xgboost
+matplotlib
+seaborn
+category-encoders
+imbalanced-learn
+requests
+optuna
+hyperopt

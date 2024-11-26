@@ -4,11 +4,25 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-scikit-learn = "==1.5.2"
-flask = "*"
 gunicorn = "*"
 waitress = "*"
 docker = "*"
+pandas = "*"
+numpy = "*"
+scikit-learn = "*"
+flask = "*"
+joblib = "*"
+pickle = "*"
+statsmodels = "*"
+lightgbm = "*"
+xgboost = "*"
+matplotlib = "*"
+seaborn = "*"
+category-encoders = "*"
+imbalanced-learn = "*"
+requests = "*"
+optuna = "*"
+hyperopt = "*"
 
 [dev-packages]
 
